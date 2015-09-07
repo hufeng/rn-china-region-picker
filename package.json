@@ -1,0 +1,24 @@
+{
+  "name": "rn-china-region-picker",
+  "version": "1.0.0",
+  "description": "china region province city area picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hufeng/rn-china-region-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "china",
+    "region"
+  ],
+  "author": "hufeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hufeng/rn-china-region-picker/issues"
+  },
+  "homepage": "https://github.com/hufeng/rn-china-region-picker#readme"
+}
