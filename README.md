@@ -3,7 +3,7 @@
 
 
 # show
-![button](https://raw.githubusercontent.com/hufeng/rn-china-region-picker/master/images/region.png)
+![rn-china-region-picker](https://raw.githubusercontent.com/hufeng/rn-china-region-picker/master/screencast/region.png)
 
 
 # usage
